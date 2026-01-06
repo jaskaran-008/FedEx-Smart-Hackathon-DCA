@@ -70,13 +70,14 @@ A Random Forest model was evaluated for comparison but was not retained due to n
 ---
 
 ## 📁 Repository Structure
-├── dca.ipynb # Complete analysis & modeling notebook
-├── README.md # Project documentation
-└── credit_risk_dataset.csv (data) # Dataset 
+- dca.ipynb # Complete analysis & modeling notebook
+-  README.md # Project documentation
+- credit_risk_dataset.csv (data) # Dataset 
 
 ## 🏁 Conclusion
 - This project showcases how data analytics and machine learning can streamline debt collection operations.  
 - It aligns with FedEx Smart Hackathon objectives and serves as a strong foundation for further enhancements.
 
 ## 📌 Note
+
 This repository is created strictly for **hackathon submission and learning purposes**.
